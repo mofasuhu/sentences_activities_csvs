@@ -35,7 +35,7 @@ C:\Users\[YourUsername\]\AppData\Roaming\Mozilla\Firefox\Profiles\
 ```
 2. **Update the script**: Use the correct path to point to your Firefox profile using the glob module.
 ```
-firefox_profile_path = glob.glob(r"path_to_your_firefox_profiles\*.default*")\[0\]
+firefox_profile_path = glob.glob(r"path_to_your_firefox_profiles\*.default*")[0]
 ```
 
 ### Important Note
