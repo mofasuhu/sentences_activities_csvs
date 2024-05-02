@@ -104,6 +104,7 @@ To run the script using the example input data, follow these steps:
 ```
 cd path_to_script
 ```
+and add the example input data in same directory.
 
 ## Contributing
 Contributions to enhance the functionality or efficiency of this script are welcome. Please fork the repository and submit a pull request.
