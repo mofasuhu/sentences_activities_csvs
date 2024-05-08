@@ -60,8 +60,8 @@ Avoid exposing sensitive details like client secrets or personal access tokens i
 
 ### Clone the Repository:
 ```
-git clone https://github.com/your-github-username/session-data-processor.git
-cd session-data-processor
+git clone https://github.com/mofasuhu/sentences_activities_csvs.git
+cd sentences_activities_csvs
 ```
 ### Environment Setup:
 Optionally, set up a virtual environment:
